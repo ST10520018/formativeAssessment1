@@ -21,7 +21,7 @@ Click the "Click for suggestion" Button <br/>
 Use the suggested output message to start a conversation! <br/>
 
 Video demonstration: <br/>
-
+https://youtube.com/shorts/bALE_RkiNcg?feature=share <br/>
 References: <br/>
 - www.youtube.com. (n.d.). Android Studio : How to Add a Background Image to Activity. [online] Available at: https://www.youtube.com/watch?v=7OvsWwbvYsM.<br/>
 - Fity.club. (2026). Page Restricted. [online] Available at: https://fity.club/lists/suggestions/Voice-Bubble-Background/ [Accessed 30 Mar. 2026].
