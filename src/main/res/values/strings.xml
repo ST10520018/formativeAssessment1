@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">formativeAssessment1</string>
+    <string name="coming_up_with_topics_to_talk_about_can_be_hard_sometimes_enter_the_time_of_day_above_for_a_suggestion">Coming up with topics to talk about can be hard sometimes. Enter the time of day above for a suggestion!</string>
+    <string name="enter_the_time_of_day_here">Enter the time of day here</string>
+    <string name="click_for_suggestion">Click for Suggestion</string>
+    <string name="coming_up_with_a_topic_of_conversation_can_be_hard_sometimes_enter_the_time_of_day_above_and_click_the_button_to_get_a_suggestion">Coming up with a topic of conversation can be hard sometimes. Enter the time of day above and click the button to get a suggestion!</string>
+    <string name="click_to_reset">Click to reset</string>
+</resources>
